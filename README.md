@@ -1,2 +1,2 @@
-# credibleeye-landingpage
-Creedible Eye - HTML CSS Landing page
+# Credible Eye - lHTML CSS Landingpage 
+[Live Demo](htpps://credibleeye-page.surge.sh/)
